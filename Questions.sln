@@ -5,7 +5,13 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{27165381-A219-4A42-AE09-ADA1BC0DCEEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{7615757A-DBCD-49E8-BB23-20AD5DB9B357}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{7615757A-DBCD-49E8-BB23-20AD5DB9B357}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvertBinaryTree", "InvertBinaryTree\InvertBinaryTree.csproj", "{4786E54B-60EC-456D-B966-271C15D597F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "704.BinarySearch", "704.BinarySearch\704.BinarySearch.csproj", "{D493224E-636E-4C2B-93DA-F18C75BA9D6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "242.ValidAnagram", "242.ValidAnagram\242.ValidAnagram.csproj", "{3D65119C-6D7A-4DE0-B0D1-2D0756A33C7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{7615757A-DBCD-49E8-BB23-20AD5DB9B357}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7615757A-DBCD-49E8-BB23-20AD5DB9B357}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7615757A-DBCD-49E8-BB23-20AD5DB9B357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4786E54B-60EC-456D-B966-271C15D597F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4786E54B-60EC-456D-B966-271C15D597F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4786E54B-60EC-456D-B966-271C15D597F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4786E54B-60EC-456D-B966-271C15D597F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D493224E-636E-4C2B-93DA-F18C75BA9D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D493224E-636E-4C2B-93DA-F18C75BA9D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D493224E-636E-4C2B-93DA-F18C75BA9D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D493224E-636E-4C2B-93DA-F18C75BA9D6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D65119C-6D7A-4DE0-B0D1-2D0756A33C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D65119C-6D7A-4DE0-B0D1-2D0756A33C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D65119C-6D7A-4DE0-B0D1-2D0756A33C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D65119C-6D7A-4DE0-B0D1-2D0756A33C7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
