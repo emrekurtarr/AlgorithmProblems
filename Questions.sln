@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "235.LowestCommonAncestorOfA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "110.BalancedBinaryTree", "110.BalancedBinaryTree\110.BalancedBinaryTree.csproj", "{DBCC0836-42C3-4D32-A9A9-05A5E12874B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "141.LinkedListCycle", "141.LinkedListCycle\141.LinkedListCycle.csproj", "{45B3D91D-FD1B-48CD-BFFB-547F4E8F0030}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "141.LinkedListCycle", "141.LinkedListCycle\141.LinkedListCycle.csproj", "{45B3D91D-FD1B-48CD-BFFB-547F4E8F0030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "232.ImplementQueueUsingStacks", "232.ImplementQueueUsingStacks\232.ImplementQueueUsingStacks.csproj", "{F77199F5-5989-4E9E-934A-0BE4A9297E02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{45B3D91D-FD1B-48CD-BFFB-547F4E8F0030}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45B3D91D-FD1B-48CD-BFFB-547F4E8F0030}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45B3D91D-FD1B-48CD-BFFB-547F4E8F0030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F77199F5-5989-4E9E-934A-0BE4A9297E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77199F5-5989-4E9E-934A-0BE4A9297E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77199F5-5989-4E9E-934A-0BE4A9297E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77199F5-5989-4E9E-934A-0BE4A9297E02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
