@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "278.FirstBadVersion", "278.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "383.RansomNote", "383.RansomNote\383.RansomNote.csproj", "{34A833B0-1317-4B00-B67A-3A1ABF834D1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70.ClimbingStairs", "70.ClimbingStairs\70.ClimbingStairs.csproj", "{FFC8D57F-9F9D-4037-BC7D-51F347592A2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{34A833B0-1317-4B00-B67A-3A1ABF834D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34A833B0-1317-4B00-B67A-3A1ABF834D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34A833B0-1317-4B00-B67A-3A1ABF834D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC8D57F-9F9D-4037-BC7D-51F347592A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC8D57F-9F9D-4037-BC7D-51F347592A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC8D57F-9F9D-4037-BC7D-51F347592A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC8D57F-9F9D-4037-BC7D-51F347592A2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
