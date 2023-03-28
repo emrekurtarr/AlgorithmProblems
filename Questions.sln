@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "110.BalancedBinaryTree", "1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "141.LinkedListCycle", "141.LinkedListCycle\141.LinkedListCycle.csproj", "{45B3D91D-FD1B-48CD-BFFB-547F4E8F0030}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "232.ImplementQueueUsingStacks", "232.ImplementQueueUsingStacks\232.ImplementQueueUsingStacks.csproj", "{F77199F5-5989-4E9E-934A-0BE4A9297E02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "232.ImplementQueueUsingStacks", "232.ImplementQueueUsingStacks\232.ImplementQueueUsingStacks.csproj", "{F77199F5-5989-4E9E-934A-0BE4A9297E02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "278.FirstBadVersion", "278.FirstBadVersion\278.FirstBadVersion.csproj", "{E37DF870-5235-4267-B977-CB84BE073845}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "278.FirstBadVersion", "278.FirstBadVersion\278.FirstBadVersion.csproj", "{E37DF870-5235-4267-B977-CB84BE073845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "383.RansomNote", "383.RansomNote\383.RansomNote.csproj", "{34A833B0-1317-4B00-B67A-3A1ABF834D1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{E37DF870-5235-4267-B977-CB84BE073845}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E37DF870-5235-4267-B977-CB84BE073845}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E37DF870-5235-4267-B977-CB84BE073845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A833B0-1317-4B00-B67A-3A1ABF834D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A833B0-1317-4B00-B67A-3A1ABF834D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A833B0-1317-4B00-B67A-3A1ABF834D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A833B0-1317-4B00-B67A-3A1ABF834D1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
