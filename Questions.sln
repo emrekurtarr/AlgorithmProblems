@@ -39,9 +39,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "409.LongestPalindrome", "40
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "206.ReverseLinkedList", "206.ReverseLinkedList\206.ReverseLinkedList.csproj", "{6AF8BD3B-925F-41DF-A6F2-B2A6DCF88D79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "169.MajorityElement", "169.MajorityElement\169.MajorityElement.csproj", "{EA60A77E-DD1A-45B1-B50E-61E6054BD744}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "169.MajorityElement", "169.MajorityElement\169.MajorityElement.csproj", "{EA60A77E-DD1A-45B1-B50E-61E6054BD744}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67.AddBinary", "67.AddBinary\67.AddBinary.csproj", "{CE84A6EC-7A46-42AB-90FE-507FA0C91154}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "67.AddBinary", "67.AddBinary\67.AddBinary.csproj", "{CE84A6EC-7A46-42AB-90FE-507FA0C91154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "876.MiddleOfTheLinkedList", "876.MiddleOfTheLinkedList\876.MiddleOfTheLinkedList.csproj", "{757D23D4-EF6F-4CEE-B436-C0BC7CBBA446}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{CE84A6EC-7A46-42AB-90FE-507FA0C91154}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE84A6EC-7A46-42AB-90FE-507FA0C91154}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE84A6EC-7A46-42AB-90FE-507FA0C91154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{757D23D4-EF6F-4CEE-B436-C0BC7CBBA446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757D23D4-EF6F-4CEE-B436-C0BC7CBBA446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757D23D4-EF6F-4CEE-B436-C0BC7CBBA446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757D23D4-EF6F-4CEE-B436-C0BC7CBBA446}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
