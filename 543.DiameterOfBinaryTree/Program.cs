@@ -65,7 +65,6 @@ int Height(TreeNode node,ref int diameter)
 
     int leftHand = Height(node.left, ref diameter);
     int rightHand = Height(node.right, ref diameter);
-    String.
 
     diameter = Math.Max(leftHand + rightHand + 1, diameter);
 
