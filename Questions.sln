@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "169.MajorityElement", "169.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "67.AddBinary", "67.AddBinary\67.AddBinary.csproj", "{CE84A6EC-7A46-42AB-90FE-507FA0C91154}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "876.MiddleOfTheLinkedList", "876.MiddleOfTheLinkedList\876.MiddleOfTheLinkedList.csproj", "{757D23D4-EF6F-4CEE-B436-C0BC7CBBA446}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "876.MiddleOfTheLinkedList", "876.MiddleOfTheLinkedList\876.MiddleOfTheLinkedList.csproj", "{757D23D4-EF6F-4CEE-B436-C0BC7CBBA446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "543.DiameterOfBinaryTree", "543.DiameterOfBinaryTree\543.DiameterOfBinaryTree.csproj", "{F751BA1B-534E-4408-BC68-0B72E71A885B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{757D23D4-EF6F-4CEE-B436-C0BC7CBBA446}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{757D23D4-EF6F-4CEE-B436-C0BC7CBBA446}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{757D23D4-EF6F-4CEE-B436-C0BC7CBBA446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F751BA1B-534E-4408-BC68-0B72E71A885B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F751BA1B-534E-4408-BC68-0B72E71A885B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F751BA1B-534E-4408-BC68-0B72E71A885B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F751BA1B-534E-4408-BC68-0B72E71A885B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
